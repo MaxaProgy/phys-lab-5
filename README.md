@@ -1,2 +1,1 @@
-# phys-lab-5
-Моделирование замыкания/размыкания цепи
+https://maxaprogy.github.io/phys-lab-5/
